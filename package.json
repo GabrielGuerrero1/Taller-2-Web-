@@ -1,11 +1,25 @@
 {
-  "name": "ejercicio2-envios",
+  "name": "taller-2-web-",
   "version": "1.0.0",
+  "description": "Taller de ejercicios II - Programacion Web - API de calculo de IVA/Renta y costos de envio internacional",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielGuerrero1/Taller-2-Web-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GabrielGuerrero1/Taller-2-Web-/issues"
+  },
+  "homepage": "https://github.com/GabrielGuerrero1/Taller-2-Web-#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^5.2.1"
   }
 }
